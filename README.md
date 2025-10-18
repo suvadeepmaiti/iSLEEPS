@@ -6,7 +6,7 @@
 # iSLEEPS
 
 This repository has been made to help searcher to have a quick start on analysing the iSLEEPS dataset available here in iHUB-data:
-[iSLEEPS dataset]([link](https://india-data.org/dataset-details/0b801dfa-4e42-4ec6-9c56-c6892b907ed2)).
+[iSLEEPS dataset][[https://india-data.org/dataset-details/0b801dfa-4e42-4ec6-9c56-c6892b907ed2]]
 
 ## Introduction 📝
 **1. Dataset**: The dataset consists of polysomnography (PSG) patient recordings during sleep studies of ischemic stroke patients, capturing brainwave activity across different sleep stages. It includes multiple channels of raw PSG data, annotated with sleep stages and additional annotations such as sleep apnea events, providing a comprehensive resource for sleep research and machine learning model development.
