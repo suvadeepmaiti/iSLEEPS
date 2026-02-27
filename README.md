@@ -92,5 +92,28 @@ Here are some of the figures used in this project:
 ![Figure 2](./images/hypnograms.png)
 
 
+---
+
+## 📚 Citation
+
+If you use the iSLEEPS dataset or this repository in your research, please cite our article:
+
+> **Maiti, S., Sharma, S.K., Mythirayee, S. et al.**  
+> *Polysomnography Dataset for Sleep Analysis in Ischemic Stroke Patients.*  
+> Scientific Data (2026).  
+> https://doi.org/10.1038/s41597-026-06747-w
+
+### BibTeX
+
+```bibtex
+@article{maiti2026isleeps,
+  author  = {Maiti, Suvadeep and Sharma, S. K. and Mythirayee, S. and others},
+  title   = {Polysomnography Dataset for Sleep Analysis in Ischemic Stroke Patients},
+  journal = {Scientific Data},
+  year    = {2026},
+  doi     = {10.1038/s41597-026-06747-w}
+}
+
+
 
 
